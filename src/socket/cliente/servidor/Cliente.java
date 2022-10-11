@@ -35,6 +35,7 @@ public class Cliente {
 		// Fechar streams de entrada e saida de dados
 		entrada.close();
 		saida.close();
+		// Fechar o scanner
 		scanner.close();
 			
 		// Fechar o socket
