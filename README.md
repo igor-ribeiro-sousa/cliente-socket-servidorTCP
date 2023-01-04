@@ -34,6 +34,9 @@ Pré-requisitos: Java 11
 # Autor
 
 Antonio Igor Ribeiro de Sousa
-
+Linkedin:
 https://www.linkedin.com/in/igor-ribeiro-sousa/
+
+GitHub:
+https://github.com/igorcons852
 
