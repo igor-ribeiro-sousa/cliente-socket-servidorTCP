@@ -1,5 +1,5 @@
 # ClienteSocketServidorTCP
-Projeto JAVA - Seleção Estágio - Corpvs
+Projeto JAVA
 
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/igorcons852/ClienteSocketServidorTCP/blob/master/LICENCE) 
@@ -7,7 +7,7 @@ Projeto JAVA - Seleção Estágio - Corpvs
 
 # Sobre o projeto
 
-## Teste de Seleção Desenvolvimento
+## Desenvolvimento
 
 Desenvolva duas aplicações em Java que devem se comunicar via rede local ou via internet, usando sockets.
 
